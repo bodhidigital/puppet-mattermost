@@ -1,7 +1,7 @@
 {
   "name": "liger1978-mattermost",
   "version": "1.8.0",
-  "author": "Richard Grainger",
+  "author": "bodhi",
   "summary": "Installs and configures Mattermost.",
   "license": "Apache-2.0",
   "source": "https://gitlab.com/harbottle/puppet-mattermost",

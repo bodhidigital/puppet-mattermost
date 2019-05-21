@@ -51,7 +51,7 @@ class mattermost::params {
               $service_provider = ''
               $service_mode     = '0755'
             }
-            '8': {
+            '8','9': {
               $service_template = 'mattermost/systemd.erb'
               $service_path     = '/lib/systemd/system/mattermost.service'
               $service_provider = ''
